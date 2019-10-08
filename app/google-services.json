@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600685484650",
+    "firebase_url": "https://chatdroid-52159.firebaseio.com",
+    "project_id": "chatdroid-52159",
+    "storage_bucket": "chatdroid-52159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600685484650:android:1f217678f02cccaa",
+        "android_client_info": {
+          "package_name": "com.example.chatdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600685484650-t49jvgn7bccfr37924tghe39nkvdbdes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZoqwD5jMtI7U6Q9eYtrq2xXJl0eNagU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600685484650-t49jvgn7bccfr37924tghe39nkvdbdes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
